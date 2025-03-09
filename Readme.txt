@@ -1,7 +1,7 @@
 Shivdeep Nutheti
 
 Files required:
-Client1.java, Client2.java, Client3.java, Client4.java, Client5.java, Server.java, Peer.java, SocketHelper.java, configuration.txt,file
+Client1.java, Client2.java, Client3.java, Client4.java, Client5.java, Server.java, Peer.java, SocketHelper.java, configuration.txt, file to be distributed
 
 
 Steps to execute:
